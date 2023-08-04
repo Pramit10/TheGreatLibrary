@@ -29,4 +29,4 @@ I have done this project it keeping in mind that this will be used in a real lib
 9. The **Availability** table stores the data about where a book is available to issue or not. It contains information like the BookID and a field called Available, that stores the number of copies available.
 
 ## How to use it ?
-One needs to install MYSQL first. All the necessary instructions for the installation of all the packages are given in the file 
+One needs to install MYSQL first. All the necessary instructions for the installation of all the packages are given in the file : [instructions](:/
