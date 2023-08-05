@@ -33,7 +33,9 @@ I have done this project it keeping in mind that this will be used in a real lib
 
 2. After installing MYSQL and the required packages, you need to create the tables that are required by running the [sql_tables.py](./sql_tables.py) file.
 
-3. Now, you are ready to use ***THE GREAT LIBRARY***
+3. Run the [main.py](./main.py) file to start the program.
+   
+5. Now, you are ready to use ***THE GREAT LIBRARY***
 
 ## How does it work and what are its features ?
 In this whole project, I have been making very minute changes which I think would make the job of librarian easier. I wanted to program this code so that everyone can use it without any hesitation.
